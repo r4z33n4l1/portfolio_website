@@ -13,7 +13,7 @@ export const About = () => {
         <div>
         <Reveal>
   <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-    Hey there! I'm Razeen, a student at the University of Toronto. I've been coding for 6 years and I'm passionate about creating automation tools and web apps. Lately, I've been diving into developing web3 apps on the Solana blockchain ecosystem.
+    Hey there! I&apos;m Razeen, a student at the University of Toronto. I&apos;ve been coding for 6 years and I&apos;m passionate about creating automation tools and web apps. Lately, I&apos;ve been diving into developing web3 apps on the Solana blockchain ecosystem.
   </p>
 </Reveal>
 <Reveal>
@@ -23,12 +23,12 @@ export const About = () => {
 </Reveal>
 <Reveal>
   <p className={styles.aboutText}>
-    Outside of work and studies, you'll find me staying active with running, hitting the gym, playing tennis, and cycling. I'm also a cooking enthusiast who loves inventing new recipes. When I need some downtime, you'll catch me gaming—Valorant and Chess are my go-to favorites.
+    Outside of work and studies, you&apos;ll find me staying active with running, hitting the gym, playing tennis, and cycling. I&apos;m also a cooking enthusiast who loves inventing new recipes. When I need some downtime, you&apos;ll catch me gaming—Valorant and Chess are my go-to favorites.
   </p>
 </Reveal>
 <Reveal>
   <p className={styles.aboutText}>
-    Currently, I'm on the lookout for an internship to further grow as a developer and gain more experiences. I'm open to exciting opportunities, so let's chat!
+    Currently, I&apos;m on the lookout for an internship to further grow as a developer and gain more experiences. I&apos;m open to exciting opportunities, so let&apos;s chat!
   </p>
 </Reveal>
 <Reveal>

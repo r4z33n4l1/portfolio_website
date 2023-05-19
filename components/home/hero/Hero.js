@@ -20,7 +20,7 @@ export const Hero = () => {
         <Reveal>
           <p className={styles.aboutCopy}>
           5 years of software building and scaling. Always hungry for knowledge, constantly creating.
-           Passionate about technology and business. Fast learner, team player. Let's connect and unleash new possibilities!
+           Passionate about technology and business. Fast learner, team player. Let&apos;s connect and unleash new possibilities!
           </p>
         </Reveal>
         <Reveal>

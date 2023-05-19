@@ -14,48 +14,82 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Google",
+    title: "Ramuri Inc.",
     position: "Software Engineer",
-    time: "2022 - Present",
-    location: "Atlanta",
+    time: "2022 - 2022",
+    location: "Toronto",
     description:
-      "I help build and scale Google Photos. Increased throughput of our primary services by 70%. Migrated backend service from Java to Go. Also helped make it look prettier.",
+      "Helped create a Google Chrome extension that allows users to see ethical ratings of goods online. Integrated REST API with React frontend.",
     tech: [
-      "Angular",
+      "Django",
       "Python",
-      "GCP",
+      "React.js",
       "Git",
       "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
+      "Jira",
+      "REST API",
+      "TypeScript"
     ],
   },
   {
-    title: "Facebook",
-    position: "Software Engineer",
-    time: "2020 - 2022",
-    location: "San Francisco",
+    title: "University of Toronto",
+    position: "Software Engineer / Research Assistant",
+    time: "2022 - 2022",
+    location: "Toronto",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React", "Node", "PHP", "GraphQL", "Presto", "Cassandra"],
+      "Created an experiment survey using oTree to help with research for a PHD study. Dealt with data collection and analysis.",
+    tech: ["Python", "oTree", "Django", "Slack"],
   },
   {
-    title: "Amazon",
-    position: "Software Engineer",
-    time: "2016 - 2020",
-    location: "Seattle",
+    title: "Code Warriors",
+    position: "Code Instructor",
+    time: "Present",
+    location: "Toronto",
     description:
-      "Data Engineer for store front. Built data pipelines with Spark and Airflow. Saw Bezos one time. He said he liked my paintings. I said I liked his hair.",
+      "Teaching kids ages 8-14 how to get started with programming and robotics. Preparing for FIRST Lego League competitions.",
+    tech: [
+      "Spike Prime",
+      "Python",
+      
+    ],
+  },
+  {
+    title: "Sir John Wilson School",
+    position: "Code Instructor",
+    time: "2018 - 2020",
+    location: "Dhaka, Bangladesh",
+    description:
+    "Taught students between grade 5 to grade 10 intro to python programming, by starting an after school club and running it for 3 years",
+    tech: [
+      "Python",
+    ],
+  },
+  {
+    title: "Sir John Wilson School",
+    position: "Software Developer - Contracted",
+    time: "2020-2020",
+    location: "Dhaka, Bangladesh",
+    description:
+    "Created an automated report card generation system for my high school, improving efficiency by 300% through the design and implementation of a robust database that seamlessly integrates input from teachers and student records.",
+    tech: [
+      "Python",
+      "Google Sheets API",
+      "MS Access",
+      "BASH"
+    ],
+  },
+  {
+    title: "FIRST Global",
+    position: "Champion / Participant",
+    time: "2018 - 2020",
+    location: "International",
+    description:
+    "Contributed to the design, construction, and coding of a championship-winning robot for international competitions, representing Bangladesh in 2018, 2019, and 2020. Acquired expertise in seamlessly integrating hardware and software for optimal performance, while developing intuitive control systems that streamlined the robot's operation for drivers.",
     tech: [
       "Java",
-      "Python",
-      "S3",
-      "RDS",
-      "Redshift",
-      "PySpark",
-      "HDFS",
-      "Apache Airflow",
+      "Android Studio",
+      "Hardware"
     ],
   },
+  
 ];

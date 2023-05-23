@@ -53,7 +53,7 @@ export const Stats = () => {
             <span className="chip">Python</span>
             <span className="chip">DJango REST</span>
             <span className="chip">Illustrator</span>
-            <span className="chip">Premiee Pro</span>
+            <span className="chip">Premiere Pro</span>
             <span className="chip">Adobe Firefly</span>
             <span className="chip">Midjourney</span>
             <span className="chip">ChatGPT</span>

@@ -18,7 +18,7 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
+    title: "Schedulr.",
     imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
     projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",

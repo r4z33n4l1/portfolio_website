@@ -9,11 +9,11 @@ export const Construction = () => {
     <div className={styles.constructionWrapper}>
       <Heading />
       <h1 className={styles.constructionTitle}>
-        Sorry! <span>.</span>
+        Sorry<span>!</span>
       </h1>
       <h2 className={styles.constructionTitle2}>Page is currently under maintanence, we will be back shortly<span>.</span></h2>
       <p className={styles.constructionText}>
-        But check out my resume:
+        Summary of my experiences available below<span>:</span>
       </p>
       <div className={styles.resumeButton}>
         <OutlineButton onClick={() => window.open("/useResume.pdf")}>My Resume</OutlineButton>
